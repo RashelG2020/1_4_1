@@ -12,3 +12,4 @@ Out[]:  130                         # The output will be 130 becuase that is the
 In[]:   alex.grow(2)                # Calls the grow method on the object alex
 In[]:   print alex.height           # Prints the current height of the alex object.
 '''
+#Mr. Rad added a commetn
